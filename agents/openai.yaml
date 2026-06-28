@@ -1,0 +1,7 @@
+interface:
+  display_name: "产业调研大纲生成助手"
+  short_description: "生成产业大脑前期调研大纲、访谈问题、资料清单与附件包"
+  default_prompt: "Use $industry-research-outline 为区域产业大脑项目生成产业调研大纲与附件包。"
+
+policy:
+  allow_implicit_invocation: true
